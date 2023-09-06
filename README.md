@@ -1,14 +1,13 @@
 Hi 👋 My name is Ilyas Ismailov
 ======================================================================================================================================
 
-Java developer
+Java Developer
 --------------
 
 * 🌍  I'm based in Kostanay
-* ✉️  You can contact me at [ilyas.main@gmail.com](mailto:ilyas.main@gmail.com)
-* 🚀  I'm currently working on [Technical Support App](http://github.com/GearSL/TechnicalSupportApp)
-* 🧠  I'm learning Java an Spring framework
-* 🤝  I'm open to collaborating on Any java or Spring based projects
+* 🚀  I'm currently working on [Technical Support App](http://github.com/GearSL/TechnicalSupportApp) for my current job
+* 🧠  I'm learning Java and Spring framework
+* 🤝  I'm open to collaborating on any Java or Spring-based projects
 
 ### Skills
 
@@ -26,13 +25,6 @@ Java developer
             <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> 
             <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> 
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> 
-        </picture> 
-    </a> 
-    <a href="https://www.github.com/GearSL" target="_blank" rel="noreferrer"> 
-        <picture> 
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
         </picture> 
     </a> 
     <a href="https://www.linkedin.com/in/ilyas-ismailov-3925a4120" target="_blank" rel="noreferrer"> 
