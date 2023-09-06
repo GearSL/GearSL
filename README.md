@@ -4,6 +4,8 @@ Hi 👋 My name is Ilyas Ismailov
 Java Developer
 --------------
 
+I am looking for an internship or a job for a Java developer vacancy. Convenient remote work format. The current goal is to catch up with hard skills and switch tech stack.
+
 * 🌍  I'm based in Kostanay
 * 🚀  I'm currently working on [Technical Support App](http://github.com/GearSL/TechnicalSupportApp) for my current job
 * 🧠  I'm learning Java and Spring framework
