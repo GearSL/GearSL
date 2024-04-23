@@ -7,7 +7,7 @@ Java Developer
 Hi, there. I am looking for an internship or a job for a Java developer vacancy. Convenient remote work format. The current goal is to catch up with hard skills and switch tech stack.
 
 * 🌍  I'm based in Kostanay
-* 🚀  I'm currently working in Kcell
+* 🚀  I'm currently working in Tinkoff
 * 🧠  I'm learning Java and Spring framework
 * 🤝  I'm open to collaborating on any Java or Spring-based projects
 
